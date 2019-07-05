@@ -1,0 +1,95 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.content {
+    margin: 5%;
+    margin-top: 3%;
+    margin-bottom: 0;
+}
+
+.logo {
+    display: block;
+}
+
+.label {
+    vertical-align: super;
+    font-size: 12px;
+}
+
+.status {
+    margin-left: 12px;
+}
+
+button {
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin: 12px;
+    padding: 6px 18px;
+    font-size: 16px;
+    border-radius: 12px;
+    font-weight: 600;
+    background: #41ba98;
+}
+
+button:hover {
+    background: #349479;
+}
+
+button:focus {
+    outline: none;
+}
+
+.btn-track {
+    background-color: #ffffff;
+    color: #41ba98;
+}
+
+.btn-track:hover {
+    background-color: #f0f0f0;
+}
+
+.btn-tracking {
+    background-color: #e44d4d;
+    color: white;
+}
+
+.btn-tracking:hover {
+    background-color: #e44d4d;
+}
+
+.btn-report {
+    display: none;
+    background-color: #6f7070;
+}
+
+.btn-report:hover {
+    background-color: #525454;
+}
+.road-count {
+    color: #41ba98;
+    font-weight: bold;
+    /* float: right; */
+}
+
+img {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+h1 {
+    display: inline-block;
+    margin-left: 6px;
+    color: #41ba98;
+    font-weight: bo ld;
+}
+
+#map {
+    width: 100%;
+    height: 500px;
+    background-color: #f4f5f7;
+}
