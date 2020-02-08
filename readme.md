@@ -6,7 +6,6 @@ With Kwanalytics, users (citizens ideally) will be able to track and view dirt r
 **Fun Fact:** The project name, *Kwanalytics*, is a portmanteau formed from *Kwan* (Akan word for 'road') and *Analytics* (English for...analytics)
 
 ## Usage
-This app can be accessed at https://kwanalytics.kevin-deyoungster.now.sh/  
 
 To run locally, you would have to:
 - Put your Google Maps API key in `index.html` and `script.js`
